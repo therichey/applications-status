@@ -28,6 +28,11 @@ p {
   line-height: 22px;
 }
 
+iframe {
+  frameborder: 0; 
+  marginheight: 0; 
+  marginwidth: 0
+}
 
 ul {
   -webkit-column-count: 3;
